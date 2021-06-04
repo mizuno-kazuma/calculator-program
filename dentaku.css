@@ -1,0 +1,97 @@
+.sotowaku{
+    height: 465px;
+    width: 400px;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.hyouji{
+    margin: 60px 40px;
+    height: 70px;
+    border: 1px solid black;
+    background-color: #d9d9d9;
+    font-size: 35px;
+    align-items: center;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.number-button{
+    display: flex;
+
+}
+
+.kigou-button1{
+    display: flex;
+    flex-direction: column;
+    float: right;
+    margin: 0px 40px 0px 0px;
+}
+
+.kigou-button2{
+    display: flex;
+    flex-direction: column;
+    float: right;
+}
+
+.button{
+    height: 40px;
+    border: 1px solid black;
+    background-color: #baff21;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.ue{
+    margin: 0px 0px 0px 11px;
+    width: 55px;
+}
+
+.naka{
+    margin: 20px 0px 0px 11px;
+    width: 55px;
+}
+
+.haji{
+    margin: 0px 0px 0px 40px;
+    width: 55px;
+}
+
+.haji2{
+    margin: 20px 0px 0px 40px;
+    width: 55px;
+}
+
+.sita{
+    margin: 20px 0px 0px 40px;
+    width: 121px;
+}
+
+.kigou{
+    width: 55px;
+    border: 1px solid black;
+    background-color: #000000;
+    border-radius: 10px;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.k-1{
+    margin: 0px 0px 0px 11px;
+    height: 40px;
+}
+
+.k-＋{
+    margin: 20px 0px 0px 11px;
+    height: 100px;
+}
+
+.k-2{
+    margin: 20px 0px 0px 11px;
+    height: 40px;
+}
+
+.k-3{
+    margin: 20px 0px 0px 11px;
+    height: 40px;
+}
